@@ -1,2 +1,1 @@
-# Calculator
-# Create a calculator using Tkinter in python.
+# Creating a calculator using Tkinter in python.
